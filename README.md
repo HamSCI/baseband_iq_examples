@@ -2,6 +2,8 @@ The Jupyter Notebooks in this repository are associated with the 2026 HamSCI Wor
 
 The slides for the pressentation can be found at https://hamsci.org/sites/default/files/article/Workshop_2026/HamSCI_2026_Erickson_Liles_Miller_baseband.pdf.
 
+A recording of the presentation from 2026 HamSCI Workshop can be found at https://youtu.be/cymoqbuJqV4?si=cPXsstq924_FrbuI. A playlist of all the recordings from 2026 HamSCI Workshop can be found at https://www.youtube.com/playlist?list=PLuapIzKwhZN-S6mHhPtTmFiOoTj_dRs_n.
+
 It is advised that one view the video recording of the tutorial at the HamSCI meeting, and examine the presentation slide, before exploring the Notebooks. The slides and the video will be posted on HamSCI.org at a later date after the presentation. This README will be updated when those items are available.
 
 (Those not familiar with Jupyter Notebooks can consult available online references for tutorials on editing and executing Notebook code - e.g. https://www.codecademy.com/article/how-to-use-jupyter-notebooks .)
